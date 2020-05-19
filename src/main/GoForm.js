@@ -23,7 +23,7 @@ function GoForm() {
             initialValues = { initialValues }
             onSubmit = { onSubmit }
             validationSchema = { validationSchema }
-        >
+         >
         <Form>
          <div className = "form-control">
             <h1>Register Form</h1>
